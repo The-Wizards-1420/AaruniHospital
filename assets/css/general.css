@@ -227,6 +227,10 @@ header #bottom-nav img {
 
 @media (max-width: 780px) {
 
+    .choose .choose1 u li{
+        padding-right: 0;
+    }
+
 
     .navbar-nav {
 
@@ -730,8 +734,7 @@ body {
     font-size: 15px;
     font-weight: 500;
     text-align: left;
-    padding-right: 75px;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 
@@ -784,8 +787,6 @@ body {
     font-size: 15px;
     font-weight: 500;
     text-align: left;
-    padding-right: 75px;
-
 }
 
 .choose .choose2 .btn-light {
