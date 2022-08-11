@@ -14,7 +14,7 @@ a {
 
 
 h2 {
-    color: #e98b36;
+    color: #ff6600;
     font-size: 38px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -31,7 +31,7 @@ h2 span {
 
 h2::before {
     content: " ";
-    border-left: 5px solid #e98b36;
+    border-left: 5px solid #ff6600;
     padding-left: 15px;
 }
 
@@ -43,7 +43,7 @@ h2::before {
 header {
     display: flex;
     background-color: white;
-    border-bottom: 2px solid #15355A;
+    border-bottom: 2px solid #003399;
 }
 
 header .container {
@@ -58,7 +58,7 @@ header .inner-header {
 }
 
 header nav {
-    background-color: #15355A;
+    background-color: #003399;
 }
 
 header nav.main-menu {
@@ -151,7 +151,7 @@ header .logo img {
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #e98b36;
+    color: #ff6600;
 }
 
 
@@ -242,7 +242,7 @@ header #top-nav img {
     }
 
     .navbar-light .navbar-nav .nav-link {
-        background-color: #15355A;
+        background-color: #003399;
         font-family: 'Roboto', sans-serif;
         font-weight: 700;
         text-decoration: none;
@@ -349,7 +349,7 @@ body {
 }
 
 .bg-light .navbar-nav .nav-link:hover {
-    color: #e98b36;
+    color: #ff6600;
 }
 
 .bg-light h5 {
@@ -360,7 +360,7 @@ body {
 
 .bg-light1 {
     position: absolute;
-    background-color: #15355A !important;
+    background-color: #003399 !important;
     padding: 10px;
 
 }
@@ -587,7 +587,7 @@ body {
 }
 
 .count {
-    background-color: #15355A;
+    background-color: #003399;
     padding: 30px;
     box-sizing: border-box;
     margin-top: 1rem;
@@ -620,7 +620,7 @@ body {
 .count i:hover,
 .count h3:hover,
 .count h1:hover {
-    color: #e98b36;
+    color: #ff6600;
 }
 
 .facts {
@@ -907,7 +907,7 @@ body {
 
 
 .fa-user-edit {
-    color: #e98b36 !important;
+    color: #ff6600 !important;
     margin-top: 30px !important;
     font-size: 55px !important;
     display: flex !important;
@@ -944,7 +944,7 @@ body {
     font-size: 25px;
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
-    color: #e98b36;
+    color: #ff6600;
     margin-right: 10px;
 }
 
@@ -969,7 +969,7 @@ body {
 .test .ico {
     font-weight: 700;
     text-align: center !important;
-    color: #e98b36;
+    color: #ff6600;
     margin-top: 32px;
     font-size: 36px;
 
@@ -990,7 +990,7 @@ body {
 }
 
 .video .postbox {
-    box-shadow: 7px 7px 12px #15355A;
+    box-shadow: 7px 7px 12px #003399;
 }
 
 .p-top3 {
@@ -1073,7 +1073,7 @@ body {
 }
 
 .blog h2 {
-    color: #e98b36;
+    color: #ff6600;
     font-size: 38px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -1091,7 +1091,7 @@ body {
 
 .blog h2::before {
     content: " ";
-    border-left: 7px solid #e98b36;
+    border-left: 7px solid #ff6600;
     padding-left: 15px;
 }
 
@@ -2051,7 +2051,7 @@ td {
 }
 
 .queries-form {
-    background-color: #e98b36;
+    background-color: #ff6600;
     -webkit-box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1);
     box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1);
     padding: 40px;
@@ -2387,10 +2387,10 @@ td {
     }
 
     .queries-form .content h2 {
-        border-left: 7px solid #e98b36;
+        border-left: 7px solid #ff6600;
         height: 28px;
         padding-left: 14px;
-        color: #e98b36;
+        color: #ff6600;
         font-weight: 700;
         font-size: 21px;
         margin-bottom: 0;
@@ -2406,10 +2406,10 @@ td {
 
 
     .aboutaarunispec h2 {
-        border-left: 7px solid #15355A;
+        border-left: 7px solid #003399;
         height: 36px;
         padding-left: 14px;
-        color: #15355A;
+        color: #003399;
         font-size: 30px;
         font-weight: 700;
         padding-bottom: 6px;
@@ -2512,10 +2512,10 @@ td {
     }
 
     .queries-form .content h2 {
-        border-left: 7px solid #e98b36;
+        border-left: 7px solid #ff6600;
         height: 28px;
         padding-left: 14px;
-        color: #e98b36;
+        color: #ff6600;
         font-weight: 700;
         font-size: 21px;
         margin-bottom: 0;
@@ -2531,10 +2531,10 @@ td {
 
 
     .aboutaarunispec h2 {
-        border-left: 7px solid #15355A;
+        border-left: 7px solid #003399;
         height: 36px;
         padding-left: 14px;
-        color: #15355A;
+        color: #003399;
         font-size: 30px;
         font-weight: 700;
         padding-bottom: 6px;

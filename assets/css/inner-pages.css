@@ -8,10 +8,10 @@
 }
 
 .aboutAarunih2 {
-  border-left: 7px solid #15355A;
+  border-left: 7px solid #003399;
   height: 47px;
   padding-left: 14px;
-  color: #15355A;
+  color: #003399;
   font-size: 38px;
   font-weight: 700;
   padding-bottom: 50px;
@@ -29,10 +29,10 @@
 }
 
 .aboutaaruni1 h2 {
-  border-left: 7px solid #15355A;
+  border-left: 7px solid #003399;
   height: 47px;
   padding-left: 14px;
-  color: #15355A;
+  color: #003399;
   font-size: 38px;
   font-weight: 700;
   padding-bottom: 50px;
@@ -76,7 +76,7 @@
 
 
 .aboutAaruni.ppad h3 {
-  color: #15355A;
+  color: #003399;
   font-size: 20px;
   padding-top: 20px;
   font-weight: 700;
@@ -84,13 +84,13 @@
 
 
 .aboutAaruni.ppad i {
-  color: #15355A;
+  color: #003399;
   font-size: 20px;
   padding-top: 20px;
 }
 
 .aboutAaruni.ppad1 h6 {
-  color: #15355A;
+  color: #003399;
   font-size: 22px;
   font-weight: 700;
   padding-bottom: 10px;
@@ -144,7 +144,7 @@
 }
 
 .aboutAaruni.int h4 {
-  color: #15355A;
+  color: #003399;
   padding-bottom: 30px;
 }
 
@@ -167,7 +167,7 @@
 }
 
 .feature-block-two .inner-box:hover {
-  background-color: #15355A;
+  background-color: #003399;
 }
 
 .feature-block-two .inner-box:before,
@@ -279,7 +279,7 @@
 
 
 .aboutaaruni1 .count {
-  background-color: #15355A;
+  background-color: #003399;
   padding: 10px;
 
 }
@@ -316,10 +316,10 @@
 }
 
 .vdoctor h2 {
-  border-left: 7px solid #e98b36;
+  border-left: 7px solid #ff6600;
   height: 39px;
   padding-left: 14px;
-  color: #e98b36;
+  color: #ff6600;
   font-size: 38px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -494,7 +494,7 @@
 
 .appointment-item .appointment-form .form-group i {
   display: inline-block;
-  color: #15355A;
+  color: #003399;
   position: absolute;
   top: 18px;
   left: 0;
@@ -502,7 +502,7 @@
 }
 
 .appointment-itema .appointment-form i {
-  color: #15355A;
+  color: #003399;
 }
 
 
@@ -571,10 +571,10 @@
 }
 
 .aboutaaruniloc h2 {
-  border-left: 7px solid #15355A;
+  border-left: 7px solid #003399;
   height: 47px;
   padding-left: 14px;
-  color: #15355A;
+  color: #003399;
   font-size: 38px;
   font-weight: 700;
   padding-bottom: 50px;
@@ -607,10 +607,10 @@
 }
 
 .aboutaarunispec h2 {
-  border-left: 7px solid #15355A;
+  border-left: 7px solid #003399;
   height: 47px;
   padding-left: 14px;
-  color: #15355A;
+  color: #003399;
   font-size: 38px;
   font-weight: 700;
   padding-bottom: 50px;
@@ -730,7 +730,7 @@ Single Blog Area CSS
 }
 
 .single-blog-details .related-posts h3 {
-  color: #15355A;
+  color: #003399;
   ;
   font-size: 20px;
   font-weight: 700;
@@ -954,10 +954,10 @@ Single Blog Area CSS
 }
 
 .single-blog-details .vdoctor h2 {
-  border-left: 7px solid #e98b36;
+  border-left: 7px solid #ff6600;
   height: 39px;
   padding-left: 14px;
-  color: #e98b36;
+  color: #ff6600;
   font-size: 38px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -1391,7 +1391,7 @@ Sidebar Widget Area CSS
 
 .widget-area .signup-item .signup-head p a {
   display: inline-block;
-  color: #e98b36;
+  color: #ff6600;
 }
 
 .widget-area .signup-item .signup-head p a:hover {
@@ -1505,10 +1505,10 @@ Doctor page
 }
 
 .innerdoctor h2 {
-  border-left: 7px solid #e98b36;
+  border-left: 7px solid #ff6600;
   height: 39px;
   padding-left: 14px;
-  color: #e98b36;
+  color: #ff6600;
   font-size: 38px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -1911,7 +1911,7 @@ Blog page
 }
 
 .read-more:hover {
-  color: #15355A;
+  color: #003399;
 }
 
 .read-more .btn {
@@ -2199,7 +2199,7 @@ Blog page
 
   box-shadow: 0px 8px 16px 0px rgba(200, 183, 255, 0.2);
 
-  border-top: 4px solid #15355A;
+  border-top: 4px solid #003399;
 
 }
 
@@ -2349,7 +2349,7 @@ Blog page
 
   margin: 0 8px;
 
-  color: #15355A;
+  color: #003399;
 
 
 }
@@ -2490,7 +2490,7 @@ ul.cat li a {
 
   display: block;
 
-  color: #15355A;
+  color: #003399;
   text-decoration: none;
 
 }
@@ -2604,7 +2604,7 @@ ul.cat li a:hover {
 
 .tag a:hover {
 
-  background: #15355A;
+  background: #003399;
 
   color: #ffffff;
 
@@ -3465,7 +3465,7 @@ Contact Area CSS
 .main-contact h2 {
 
   height: 39px;
-  color: #e98b36;
+  color: #ff6600;
   font-size: 38px;
   font-weight: 700;
   padding-bottom: 60px;
@@ -3484,7 +3484,7 @@ Contact Area CSS
 
 .main-contact h2::before {
   content: " ";
-  border-left: 7px solid #e98b36;
+  border-left: 7px solid #ff6600;
   padding-left: 15px;
 }
 
@@ -3661,7 +3661,7 @@ Contact Area CSS
 .theme-btn {
   margin-top: 20px;
   margin-bottom: 30px;
-  background: #15355A;
+  background: #003399;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -3686,7 +3686,7 @@ Contact Area CSS
   margin-top: 20px;
   margin-bottom: 30px;
   -moz-user-select: none;
-  background: #15355A;
+  background: #003399;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -3734,12 +3734,12 @@ Contact Area CSS
 
 .gallery h2::before {
   content: " ";
-  border-left: 7px solid #e98b36;
+  border-left: 7px solid #ff6600;
   padding-left: 15px;
 }
 
 .gallery h2 {
-  color: #e98b36;
+  color: #ff6600;
   font-size: 38px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -3808,7 +3808,7 @@ Contact Area CSS
 }
 
 .locationw h2 {
-  color: #e98b36;
+  color: #ff6600;
   font-size: 38px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -3826,7 +3826,7 @@ Contact Area CSS
 
 .locationw h2::before {
   content: " ";
-  border-left: 7px solid #e98b36;
+  border-left: 7px solid #ff6600;
   padding-left: 15px;
 }
 
@@ -3938,11 +3938,11 @@ Contact Area CSS
 
 
 .insurance-content h2 {
-  color: #e98b36;
+  color: #ff6600;
   font-size: 38px;
   font-weight: 700;
   margin-bottom: 20px;
-  border-left: 7px solid #e98b36;
+  border-left: 7px solid #ff6600;
   padding-left: 15px;
   margin-top: 123px;
   margin-bottom: 35px;
@@ -3973,7 +3973,7 @@ Contact Area CSS
 }
 
 .insurance-content .insurance-features li {
-  background: #15355A;
+  background: #003399;
   border-radius: 30px;
   float: left;
   list-style: outside none none;
@@ -3984,7 +3984,7 @@ Contact Area CSS
 }
 
 .new {
-  BACKGROUND-COLOR: #15355A;
+  BACKGROUND-COLOR: #003399;
   BORDER: NONE;
   COLOR: white;
   font-size: 18px;
@@ -4157,7 +4157,7 @@ Contact Area CSS
   margin-bottom: 0;
   list-style: none;
   justify-content: center;
-  background-color: #e98b36;
+  background-color: #ff6600;
   padding-top: 20px;
   padding-bottom: 20px;
   padding-right: 20px;
