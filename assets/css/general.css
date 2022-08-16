@@ -235,6 +235,7 @@ header #top-nav img {
         right:2px;
         top:60px;
         z-index: 3;
+        float: right;
     }
 
     .navbar-light .navbar-toggler {
