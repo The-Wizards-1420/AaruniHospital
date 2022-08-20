@@ -49,7 +49,14 @@ header {
 header .container {
     padding: 0%;
 }
-
+header .rights{
+display: flex;
+align-items: flex-end;
+}
+header .right-side{
+    display: flex;
+    
+}
 
 header .inner-header {
     display: flex;
