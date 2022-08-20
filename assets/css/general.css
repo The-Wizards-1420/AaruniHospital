@@ -207,6 +207,13 @@ header #top-nav img {
     margin: 0 2rem;
 }
 
+@media only screen and (max-width:767px) {
+    #carouselExampleIndicators .carousel-control-prev,
+    #carouselExampleIndicators .carousel-control-next {
+        top: 7rem;
+    }
+}
+
 .emer {
     margin-left: 30px;
 }
@@ -229,12 +236,12 @@ header #top-nav img {
 
 
     .navbar-nav {
-
         position:absolute;
         right:2px;
         top:60px;
         z-index: 3;
         float: right;
+        width: 100%;
     }
 
     .navbar-light .navbar-toggler {
@@ -2866,12 +2873,9 @@ td {
 }
 
 @media only screen and (max-width:767px) {
-    .desktophide {
-        display: flex !important;
-    }
 
     .mobilehide {
-        display: none;
+        display: flex !important;
     }
 
     .bg-pink {
@@ -2888,11 +2892,6 @@ td {
     .lines {
         display: none;
     }
-
-}
-
-.desktophide {
-    display: none;
 
 }
 
