@@ -148,10 +148,6 @@
   padding-bottom: 30px;
 }
 
-
-
-
-
 .feature-block-two {
   position: relative;
   margin-bottom: 30px;
@@ -1940,15 +1936,11 @@ Blog page
 }
 
 .read-more i {
-
   transition: .3s;
 
   display: inline-block;
   text-decoration: none;
-
 }
-
-
 
 .blog-title-sm {
 
@@ -3492,10 +3484,16 @@ Contact Area CSS
 .section-title {
   margin-top: 30px;
 }
-
+.section-title h2{
+  color: #003399;
+}
+.section-title h2::before{
+  border-color: #003399;
+}
 .mcontact-form {
   text-align: center;
 }
+
 
 .mcontact-form form .form-group {
   margin-bottom: 15px;

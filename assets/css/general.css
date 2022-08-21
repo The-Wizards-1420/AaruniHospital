@@ -604,7 +604,12 @@ body {
     color: white;
     text-align: center;
 }
-
+.count h2{
+    color:white;
+}
+.count h2::before{
+    border-color: white;
+}
 .count h3 {
     font-size: 18px;
     text-align: center;
@@ -2966,4 +2971,11 @@ td {
     height: 30px;
     width: 30px;
     vertical-align: middle;
+}
+
+@media screen and (max-width:400px) {
+    .aboutaarunispec .container h2{
+        margin-bottom: 60px;
+        font-size: 30px;
+    }
 }
